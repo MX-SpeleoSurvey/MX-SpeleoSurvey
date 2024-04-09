@@ -7,3 +7,6 @@
 [submodule "Aktun-Hu"]
 	path = Aktun-Hu
 	url = git@github.com:MX-SpeleoSurvey/Aktun-Hu.git
+[submodule "Camilo"]
+	path = Camilo
+	url = git@github.com:MX-SpeleoSurvey/Camilo.git
