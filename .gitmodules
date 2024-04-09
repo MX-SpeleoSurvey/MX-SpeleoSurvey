@@ -1,0 +1,6 @@
+[submodule "Mayan-Blue"]
+	path = Mayan-Blue
+	url = https://github.com/MX-SpeleoSurvey/Mayan-Blue
+[submodule "Carris_Loft"]
+	path = Carris_Loft
+	url = https://github.com/MX-SpeleoSurvey/Carris_Loft
