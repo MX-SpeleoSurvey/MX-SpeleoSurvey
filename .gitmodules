@@ -4,3 +4,6 @@
 [submodule "Carris_Loft"]
 	path = Carris_Loft
 	url = https://github.com/MX-SpeleoSurvey/Carris_Loft
+[submodule "Aktun-Hu"]
+	path = Aktun-Hu
+	url = git@github.com:MX-SpeleoSurvey/Aktun-Hu.git
