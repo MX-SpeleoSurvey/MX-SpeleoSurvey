@@ -1,15 +1,15 @@
-[submodule "Mayan-Blue"]
-	path = Mayan-Blue
-	url = https://github.com/MX-SpeleoSurvey/Mayan-Blue
-[submodule "Carris_Loft"]
-	path = Carris_Loft
-	url = https://github.com/MX-SpeleoSurvey/Carris_Loft
 [submodule "Aktun-Hu"]
 	path = Aktun-Hu
-	url = git@github.com:MX-SpeleoSurvey/Aktun-Hu.git
+	url = https://github.com/MX-SpeleoSurvey/Aktun-Hu.git
 [submodule "Camilo"]
 	path = Camilo
-	url = git@github.com:MX-SpeleoSurvey/Camilo.git
+	url = https://github.com/MX-SpeleoSurvey/Camilo.git
+[submodule "Carris_Loft"]
+	path = Carris_Loft
+	url = https://github.com/MX-SpeleoSurvey/Carris_Loft.git
+[submodule "Mayan-Blue"]
+	path = Mayan-Blue
+	url = https://github.com/MX-SpeleoSurvey/Mayan-Blue.git
 [submodule "Outland"]
 	path = Outland
-	url = git@github.com:MX-SpeleoSurvey/Outland-Cave.git
+	url = https://github.com/MX-SpeleoSurvey/Outland-Cave.git
