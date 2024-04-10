@@ -10,3 +10,6 @@
 [submodule "Camilo"]
 	path = Camilo
 	url = git@github.com:MX-SpeleoSurvey/Camilo.git
+[submodule "Outland"]
+	path = Outland
+	url = git@github.com:MX-SpeleoSurvey/Outland-Cave.git
